@@ -1,0 +1,13 @@
+1).Optimization Problems:-->
+    A problem which requires either minimum result or maximum result
+    For any problem there can be only 1 optimal solution(minimal cost)
+    Methods to find answer for optimization problems are as follows:
+    a).Greedy Algorithm
+    b).Dynamic Programming
+    c).Branch and Bound
+
+2).Greedy Approach:
+    It says that a problem should be solved in stages, In each stage we will consider
+    one input from given problem and if that input is feasible then we will include it in the solution, by including all
+    the feasible inputs we will get the optimal solution
+
